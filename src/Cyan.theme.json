@@ -1,5 +1,5 @@
 {
-  "name": "Cyan light",
+  "name": "Vfoehn Cyan light",
   "dark": false,
   "author": "Olga Berdnikova",
 
@@ -7,7 +7,7 @@
 
   "ui": {
     "*": {
-      "background": "#e4e6eb",
+      "background": "#f3f4f6",
       "foreground": "#1d1d1d",
 
       "selectionBackground": "#3eb2c2",
